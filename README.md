@@ -1,0 +1,1 @@
+Este projeto se resume à produção de um equipamento de baixo custo para auxiliar o monitoramento da qualidade do ar com foco em micro partículas e fatores que podem influenciar estes dados, como humidade e temperatura.
